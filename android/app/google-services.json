@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875881748415",
+    "project_id": "sonoflightsoftware",
+    "storage_bucket": "sonoflightsoftware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875881748415:android:ee1a4ea3a84ec1e545b30a",
+        "android_client_info": {
+          "package_name": "com.somethingprojectthataymade.sonoflightsoftware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy54XAR9t9ZH18mrlkkCAWz-15XRmDrD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
