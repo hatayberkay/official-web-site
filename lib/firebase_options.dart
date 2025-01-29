@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCrnDja3LquH0kj6VyFkA7aH_dnmo7fJW0',
+    apiKey: 'You need your key for using',
     appId: '1:875881748415:web:98d711603d9ee76545b30a',
     messagingSenderId: '875881748415',
     projectId: 'sonoflightsoftware',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCLwMd-13mYh_41pE_BW0TL3ZPUWVqf8ys',
+    apiKey: 'You need your key for using',
     appId: '1:875881748415:ios:26438436ceff1e6645b30a',
     messagingSenderId: '875881748415',
     projectId: 'sonoflightsoftware',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCLwMd-13mYh_41pE_BW0TL3ZPUWVqf8ys',
+    apiKey: 'You need your key for using',
     appId: '1:875881748415:ios:edb4d493b62c401545b30a',
     messagingSenderId: '875881748415',
     projectId: 'sonoflightsoftware',
